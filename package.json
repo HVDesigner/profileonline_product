@@ -1,0 +1,14 @@
+{
+  "name": "proonline_product",
+  "version": "1.0.0",
+  "description": "Profile Online Of Hoang Ngoc Viet, HVDesigner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "HVDesigner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
